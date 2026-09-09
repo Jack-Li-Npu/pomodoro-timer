@@ -1,0 +1,12 @@
+{
+  "id": "./",
+  "name": "Pomo Studio — Focus Timer",
+  "short_name": "Pomo Studio",
+  "description": "Make room for focus. Tasks, return tickets, and a kinder daily rhythm.",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#f7f8f5",
+  "theme_color": "#53735e",
+  "icons": [{ "src": "icon.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "any" }]
+}
