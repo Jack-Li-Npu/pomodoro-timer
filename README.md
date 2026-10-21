@@ -73,6 +73,8 @@ Changing the interface language preserves your task titles and notes exactly as 
 
 ## Run it locally
 
+[![Launch on PicoRunner](https://picorunner.com/badges/launch.svg)](https://picorunner.com/launch/?repository=https%3A%2F%2Fgithub.com%2FJack-Li-Npu%2Fpomodoro-timer)
+
 Use **Node.js 24 LTS** and npm. Node 22.12+ is also supported by the declared engine range; development verification was performed with Node 25.3.
 
 ```bash
